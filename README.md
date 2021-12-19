@@ -1,2 +1,2 @@
-# Telegram-to-gmail
-Message to Telegram Bot and I'll receive your message via Gmail
+# Tittuji or Telegram-to-gmail
+- Message to [Tittuji on Telegram](https://t.me/mrhkapibot) and I'll receive your message on my Gmail
